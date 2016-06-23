@@ -1,3 +1,13 @@
+SPECIAL NOTICE
+======================
+
+I have been receiving numerous repeated emails about people asking permission to use these sprites. @makrohn (the original compiler of the Universal LPC Spritesheet), @gaurav0, and myself (@jrconway3) are not the producers of the LPC sprites (though some of us have contributed to the actual spritesheet itself).
+
+This spritesheet is merely a compiled list of sprites based on LPC from the Open Game Art "Liberated Pixel Cup" spritesheet, which can be found at: lpc.opengameart.org, and all three of us have helped to compile new additions to the character sprites in one easy location, and others can also help contribute to the project as well.
+
+Please read the [AUTHORS.txt](AUTHORS.txt) file for the full list of authors who have contributed to the spritesheet. If you want to know how to include sprites from this sheet into your work, please visit the [Open Game Art LPC forums](http://opengameart.org/forums/liberated-pixel-cup)
+
+
 Universal Sprite Sheet
 ======================
 
@@ -18,6 +28,7 @@ In trying to keep things organized, I've employed a few different abbreviations 
  - sh: shoot
  - hu: hurt
 
+
 COPYING
 =======
 
@@ -30,6 +41,15 @@ CC-BY-SA 3.0:
 GNU GPL 3.0:
  - http://www.gnu.org/licenses/gpl-3.0.html
  - See the file: gpl-3.0.txt
+
+ 
+Contributors
+============
+
+The Liberated Pixel Effort is a collaborative effort from a number of different great artists who helped produce sprites for the project. Please read the [AUTHORS.txt](AUTHORS.txt) file for the full list of contributors to the project.
+
+You will need to credit everyone who helped contribute to the LPC sprites you intend to use if you wish to use LPC sprites in your project.
+
 
 Collaborating
 =============
